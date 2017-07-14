@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<config>
+  <Cimema>
+    <Cinema CinemaName="Megastar Pandora" CinemaCode="1" Link="http://m.megastar.vn/vn/sessiontime/cinema-1010" Type="Megastar" Web="http://m.megastar.vn"/>
+    <Cinema CinemaName="Megastar CressMall" CinemaCode="2" Link="http://m.megastar.vn/vn/sessiontime/cinema-1009" Type="Megastar" Web="http://m.megastar.vn"/>
+    <Cinema CinemaName="Megastar CT Plaza" CinemaCode="3" Link="http://m.megastar.vn/vn/sessiontime/cinema-1006" Type="Megastar" Web="http://m.megastar.vn"/>
+    <Cinema CinemaName="Megastar Hùng Vương Plaza" CinemaCode="4" Link="http://m.megastar.vn/vn/sessiontime/cinema-1004" Type="Megastar" Web="http://m.megastar.vn"/>
+    <Cinema CinemaName="Megastar Parkson Pagragon" CinemaCode="5" Link="http://m.megastar.vn/vn/sessiontime/cinema-1007" Type="Megastar" Web="http://m.megastar.vn"/>
+    <Cinema CinemaName="Megastar VinCom bà triệu" CinemaCode="5" Link="http://m.megastar.vn/vn/sessiontime/cinema-1001" Type="Megastar" Web="http://m.megastar.vn"/>
+    <Cinema CinemaName="Megastar Đà Nẵng- Vĩnh Trung Plaza" CinemaCode="6" Link="http://m.megastar.vn/vn/sessiontime/cinema-1005" Type="Megastar" Web="http://m.megastar.vn"/>
+    <Cinema CinemaName="Megastar Hải Phòng - Thùy Dương Plaza" CinemaCode="7" Link="http://m.megastar.vn/vn/sessiontime/cinema-1002" Type="Megastar" Web="http://m.megastar.vn"/>
+    <Cinema CinemaName="Megastar Coopmart - Biên Hòa" CinemaCode="8" Link="http://m.megastar.vn/vn/sessiontime/cinema-1003" Type="Megastar" Web="http://m.megastar.vn"/>
+    <Cinema CinemaName="" CinemaCode="9,10,11" Link="http://m.galaxycine.vn/vi/showtime" Type="Galaxy" Web="https://m.galaxycine.vn"/>
+  </Cimema>
+  <File Path="D:\Project\PhimChieuRap\LichChieuPhim\PCRSchedule\Data\" />
+</config>

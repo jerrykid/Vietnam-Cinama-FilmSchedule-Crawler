@@ -1,0 +1,5 @@
+D:\Project\PhimChieuRap\LichChieuPhim\PCRProcess\bin\Debug\PCRProcess.dll
+D:\Project\PhimChieuRap\LichChieuPhim\PCRProcess\bin\Debug\PCRProcess.pdb
+D:\Project\PhimChieuRap\LichChieuPhim\PCRProcess\obj\Debug\ResolveAssemblyReference.cache
+D:\Project\PhimChieuRap\LichChieuPhim\PCRProcess\obj\Debug\PCRProcess.dll
+D:\Project\PhimChieuRap\LichChieuPhim\PCRProcess\obj\Debug\PCRProcess.pdb

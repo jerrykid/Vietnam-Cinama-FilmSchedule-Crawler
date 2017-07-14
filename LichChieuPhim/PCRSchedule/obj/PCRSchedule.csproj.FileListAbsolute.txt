@@ -1,0 +1,7 @@
+D:\Project\PhimChieuRap\LichChieuPhim\PCRSchedule\bin\PCRSchedule.dll
+D:\Project\PhimChieuRap\LichChieuPhim\PCRSchedule\bin\PCRSchedule.pdb
+D:\Project\PhimChieuRap\LichChieuPhim\PCRSchedule\bin\PCRProcess.dll
+D:\Project\PhimChieuRap\LichChieuPhim\PCRSchedule\bin\PCRProcess.pdb
+D:\Project\PhimChieuRap\LichChieuPhim\PCRSchedule\obj\Debug\ResolveAssemblyReference.cache
+D:\Project\PhimChieuRap\LichChieuPhim\PCRSchedule\obj\Debug\PCRSchedule.dll
+D:\Project\PhimChieuRap\LichChieuPhim\PCRSchedule\obj\Debug\PCRSchedule.pdb

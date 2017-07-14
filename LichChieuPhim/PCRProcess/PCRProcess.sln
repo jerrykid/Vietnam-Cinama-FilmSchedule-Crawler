@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PCRProcess", "PCRProcess.csproj", "{45C6EDAC-D58A-4295-BF6C-AA0ED8BD3A79}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PCRWeb", "..\PCRSchedule\PCRWeb.csproj", "{8D13AB09-081C-4E5A-9CFF-7BCBFE24E4C9}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PCRConsole", "..\PCRTest\PCRConsole.csproj", "{D82A7833-FDE7-463B-A95A-CB6FFEC04EE6}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45C6EDAC-D58A-4295-BF6C-AA0ED8BD3A79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45C6EDAC-D58A-4295-BF6C-AA0ED8BD3A79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45C6EDAC-D58A-4295-BF6C-AA0ED8BD3A79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45C6EDAC-D58A-4295-BF6C-AA0ED8BD3A79}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D13AB09-081C-4E5A-9CFF-7BCBFE24E4C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D13AB09-081C-4E5A-9CFF-7BCBFE24E4C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D13AB09-081C-4E5A-9CFF-7BCBFE24E4C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D13AB09-081C-4E5A-9CFF-7BCBFE24E4C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D82A7833-FDE7-463B-A95A-CB6FFEC04EE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D82A7833-FDE7-463B-A95A-CB6FFEC04EE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D82A7833-FDE7-463B-A95A-CB6FFEC04EE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D82A7833-FDE7-463B-A95A-CB6FFEC04EE6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

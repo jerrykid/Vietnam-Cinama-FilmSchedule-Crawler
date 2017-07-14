@@ -1,0 +1,7 @@
+D:\Project\PhimChieuRap\LichChieuPhim\PCRTest\bin\Debug\PCRTest.exe
+D:\Project\PhimChieuRap\LichChieuPhim\PCRTest\bin\Debug\PCRTest.pdb
+D:\Project\PhimChieuRap\LichChieuPhim\PCRTest\bin\Debug\PCRProcess.dll
+D:\Project\PhimChieuRap\LichChieuPhim\PCRTest\bin\Debug\PCRProcess.pdb
+D:\Project\PhimChieuRap\LichChieuPhim\PCRTest\obj\Debug\ResolveAssemblyReference.cache
+D:\Project\PhimChieuRap\LichChieuPhim\PCRTest\obj\Debug\PCRTest.exe
+D:\Project\PhimChieuRap\LichChieuPhim\PCRTest\obj\Debug\PCRTest.pdb
